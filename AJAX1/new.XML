@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+	<user>
+		<name>chronis fiflis</name>
+		<address>kresnas 10</address>
+		<email>chronis@gmail.com</email>
+		<phone>2104941797</phone>
+	</user>
+
+<user>
+		<name>dimitris pasioaloudios</name>
+		<address>kresnas 20</address>
+		<email>dimitris@gmail.com</email>
+		<phone>2104941798</phone>
+	</user>
+	<user>
+		<name>dimitrios fiflis</name>
+		<address>kresnas 30</address>
+		<email>dimitrios@gmail.com</email>
+		<phone>2104941793</phone>
+	</user>
+	<user>
+		<name>thomas fiflis</name>
+		<address>kresnas 40</address>
+		<email>thomas@gmail.com</email>
+		<phone>2104941757</phone>
+	</user>
+	
+	<user>
+		<name>aristeidis fiflis</name>
+		<address>kresnas 50</address>
+		<email>aristeidis@gmail.com</email>
+		<phone>2104951797</phone>
+	</user>
+	<user>
+		<name>aggelos malias</name>
+		<address>kresnas 60</address>
+		<email>aggelos@gmail.com</email>
+		<phone>2104541797</phone>
+	</user>
+	<user>
+		<name>kostas giannidis</name>
+		<address>kresnas 70</address>
+		<email>kostas@gmail.com</email>
+		<phone>2104941997</phone>
+	</user>
+	<user>
+		<name>christos peidis</name>
+		<address>kresnas 80</address>
+		<email>christos@gmail.com</email>
+		<phone>210494297</phone>
+	</user>
+	<user>
+		<name>paraskeuas karagounis</name>
+		<address>kresnas 90</address>
+		<email>paraskeuas@gmail.com</email>
+		<phone>2104911797</phone>
+	</user>
+	<user>
+		<name>dimitris oikonomou</name>
+		<address>kresnas 100</address>
+		<email>dimitris@gmail.com</email>
+		<phone>2104946697</phone>
+	</user>
+	
+	
+	
+	
+	
+</catalog>
